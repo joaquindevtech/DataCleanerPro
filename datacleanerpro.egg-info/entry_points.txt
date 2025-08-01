@@ -1,0 +1,2 @@
+[console_scripts]
+datacleanerpro = datacleanerpro.cli:app

@@ -1,0 +1,11 @@
+README.md
+setup.py
+datacleanerpro/__init__.py
+datacleanerpro/core.py
+datacleanerpro.egg-info/PKG-INFO
+datacleanerpro.egg-info/SOURCES.txt
+datacleanerpro.egg-info/dependency_links.txt
+datacleanerpro.egg-info/entry_points.txt
+datacleanerpro.egg-info/requires.txt
+datacleanerpro.egg-info/top_level.txt
+tests/test_core.py
